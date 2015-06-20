@@ -32,7 +32,6 @@
 #include <linux/input/doubletap2wake.h>
 #endif
 
-
 #define TIMEOUT_MS 500
 
 
